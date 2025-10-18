@@ -15,3 +15,4 @@ npm run dev
 ### 3. モックAPI
 - `GET /api/judges` → Judges JSON を返す
 
+erthjkl;
